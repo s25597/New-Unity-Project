@@ -5,7 +5,7 @@ using UnityEngine;
 public class Movement : MonoBehaviour
 {
     public Rigidbody2D rb;
-    public float upForce = 100;
+    public float upForce = 200;
     public float speed = 1500;
     public float runSpeed = 5000;
 
